@@ -1,4 +1,4 @@
-Hospital Stay Charges
+#Hospital Stay Charges
 
 This C++ program computes and displays the charges for a patient's hospital stay. The program allows the user to enter information for both in-patient and out-patient cases and calculates the total charges accordingly. It makes use of function overloading to handle different sets of data for in-patients and out-patients.
 
